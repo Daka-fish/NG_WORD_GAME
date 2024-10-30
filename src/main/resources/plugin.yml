@@ -1,0 +1,4 @@
+name: ng_word_game
+version: '${project.version}'
+main: net.tv.twitch.chrono_fish.ng_word_game.Main
+api-version: '1.20'
